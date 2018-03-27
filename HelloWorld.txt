@@ -1,2 +1,7 @@
 Hello World
 you are currently in the world
+
+--Adding one line to this textfile--
+1. Version control is good, said juan
+2. Write message for each commit, said Joseph
+3. Don't forget to configure your name & email, said James
